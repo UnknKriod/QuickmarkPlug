@@ -1,0 +1,6 @@
+name: Quickmark
+version: '${project.version}'
+main: me.unknkriod.quickmark.Main
+api-version: '1.21'
+authors: [ UnknKriod ]
+description: A server plugin for client mod that adds a system of tags and teams from Fortnite
